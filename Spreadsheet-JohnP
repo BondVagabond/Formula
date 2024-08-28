@@ -1,5 +1,9 @@
 namespace CCS3500.Formula
 public class Formula
 {
-
+    /// <summary>
+    /// FIXME:
+    /// </summary>
+    /// <param name="Formula"></param>
+    public Formula(string Formula)
 }
